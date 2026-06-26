@@ -1,1 +1,0 @@
-print("Yig'indi:", sum(map(int, input().split())))

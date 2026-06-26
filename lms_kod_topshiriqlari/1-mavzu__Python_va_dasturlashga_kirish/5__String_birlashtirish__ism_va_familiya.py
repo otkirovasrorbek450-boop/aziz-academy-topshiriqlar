@@ -1,1 +1,0 @@
-print(f"Salom, {input()} {input()}!")
