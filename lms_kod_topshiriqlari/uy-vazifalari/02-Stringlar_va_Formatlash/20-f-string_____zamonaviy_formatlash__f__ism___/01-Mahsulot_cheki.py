@@ -1,0 +1,7 @@
+nom = input()
+narx = int(input())
+son = int(input())
+print(f"Mahsulot: {nom}")
+print(f"Narxi: {narx} som")
+print(f"Soni: {son}")
+print(f"Jami: {narx * son} som")
