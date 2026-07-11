@@ -1,26 +1,26 @@
-# 🎓 Aziz Academy — OLIMJONOV AMIRXON
+# 🎓 Aziz Academy — DUYSEBAEV ABAY
 
 **Kurs:** Dasturlash / IT
 
 ## 📊 Umumiy progress
 
-`██░░░░░░░░░░░░░░░░░░` **8%**  (14/179 mavzu)
+`██░░░░░░░░░░░░░░░░░░` **11%**  (19/179 mavzu)
 
-- ⭐ Jami ball: **18892**
-- 📤 GitHubga yuborilgan topshiriqlar: **338**
+- ⭐ Jami ball: **9955**
+- 📤 GitHubga yuborilgan topshiriqlar: **1**
 
 ## 🎯 Qaysi mavzuga yetdingiz
 
-**MODUL 3 — Shartlar va Sikllar** → **🛠 Shartli menyu — oddiy CLI menyu**
+**MODUL 3 — Shartlar va Sikllar** → **Ichma-ich shartlar (nested if) — mantiqni tartiblash**
 
-➡️ Keyingi mavzu: *while sikli ⭐ — shartga asoslangan takrorlash*
+➡️ Keyingi mavzu: *🛠 Shartli menyu — oddiy CLI menyu*
 
 <details open>
 <summary>Shu moduldagi mavzular</summary>
 
 - ✅ if / elif / else ⭐ — shart operatorlari asoslari
-- ✅ Ichma-ich shartlar (nested if) — mantiqni tartiblash
-- ✅ 🛠 Shartli menyu — oddiy CLI menyu  ← yetgan joyingiz
+- ✅ Ichma-ich shartlar (nested if) — mantiqni tartiblash  ← yetgan joyingiz
+- ⬜ 🛠 Shartli menyu — oddiy CLI menyu
 - ⬜ while sikli ⭐ — shartga asoslangan takrorlash
 - ⬜ break va continue — sikldan chiqish va o'tkazib yuborish
 - ⬜ for va range() ⭐ — ketma-ket takrorlash
@@ -40,9 +40,9 @@
 
 | # | Modul | Progress | Mavzular |
 |---|-------|----------|----------|
-| 1 | 🔸 Asoslar | `███████░░░` 73% | 11/15 |
-| 2 | ⬜ Stringlar va Formatlash | `░░░░░░░░░░` 0% | 0/10 |
-| 3 | 🔸 Shartlar va Sikllar | `██░░░░░░░░` 20% | 3/15 |
+| 1 | ✅ Asoslar | `██████████` 100% | 15/15 |
+| 2 | 🔸 Stringlar va Formatlash | `██░░░░░░░░` 20% | 2/10 |
+| 3 | 🔸 Shartlar va Sikllar | `█░░░░░░░░░` 13% | 2/15 |
 | 4 | ⬜ Ma'lumot Tuzilmalari | `░░░░░░░░░░` 0% | 0/18 |
 | 5 | ⬜ Comprehensions | `░░░░░░░░░░` 0% | 0/5 |
 | 6 | ⬜ Funksiyalar | `░░░░░░░░░░` 0% | 0/12 |
@@ -63,4 +63,4 @@
 - `lms_yozma_topshiriqlari/` — yozma javoblar
 
 ---
-<sub>🤖 Aziz Academy · avtomatik yangilanadi · 2026-07-09 08:02</sub>
+<sub>🤖 Aziz Academy · avtomatik yangilanadi · 2026-07-11 13:24</sub>
