@@ -1,3 +1,3 @@
-print("1024")
-print("125")
-print("49")
+print(2 ** 10)
+print(5 ** 3)
+print(7 ** 2)
