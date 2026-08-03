@@ -1,4 +1,5 @@
+# Kodingizni shu yerga yozing
 a = int(input())
 b = int(input())
-c = int(input())
-print(a + b + c)
+d = int(input())
+print(a + b + d)
