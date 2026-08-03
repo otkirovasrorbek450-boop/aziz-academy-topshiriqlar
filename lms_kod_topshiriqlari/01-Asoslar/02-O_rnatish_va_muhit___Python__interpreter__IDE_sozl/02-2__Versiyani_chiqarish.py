@@ -1,2 +1,2 @@
-v = input()
-print(f"Python {v}")
+V = input()
+print(f"Python {V}")
