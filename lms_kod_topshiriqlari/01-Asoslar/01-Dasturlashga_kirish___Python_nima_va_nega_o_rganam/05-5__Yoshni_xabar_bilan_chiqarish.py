@@ -1,2 +1,3 @@
-yosh = int(input())
-print(f"Mening yoshim {yosh}")
+# Kodingizni shu yerga yozing
+yosh = input()
+print("Mening yoshim", yosh + "")
