@@ -1,3 +1,2 @@
-a, b = map(int, input().split())
-result = a / b
-print(f"Div: {result:.2f}")
+a, b = input().split()
+print(f"Div: {int(a) / int(b):.2f}")
