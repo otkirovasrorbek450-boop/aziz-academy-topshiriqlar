@@ -4,7 +4,7 @@
 
 ## 📊 Umumiy progress
 
-`█░░░░░░░░░░░░░░░░░░░` **4%**  (8/179 mavzu)
+`█░░░░░░░░░░░░░░░░░░░` **5%**  (9/179 mavzu)
 
 - ⭐ Jami ball: **15692**
 - 📤 GitHubga yuborilgan topshiriqlar: **32**
@@ -13,12 +13,12 @@
 
 **MODUL 1 — Asoslar** → **Arifmetik operatorlar — + - * / // % ** va prioritet**
 
-➡️ Keyingi mavzu: *Dasturlashga kirish — Python nima va nega o'rganamiz*
+➡️ Keyingi mavzu: *Mantiqiy operatorlar — and, or, not*
 
 <details open>
 <summary>Shu moduldagi mavzular</summary>
 
-- ⬜ Dasturlashga kirish — Python nima va nega o'rganamiz
+- ✅ Dasturlashga kirish — Python nima va nega o'rganamiz
 - ✅ O'rnatish va muhit — Python, interpreter, IDE sozlash
 - ✅ Birinchi dastur ⭐ — print() va kommentlar
 - ✅ O'zgaruvchilar ⭐ — yaratish va nomlash qoidalari (snake_case)
@@ -40,7 +40,7 @@
 
 | # | Modul | Progress | Mavzular |
 |---|-------|----------|----------|
-| 1 | 🔸 Asoslar | `█████░░░░░` 53% | 8/15 |
+| 1 | 🔸 Asoslar | `██████░░░░` 60% | 9/15 |
 | 2 | ⬜ Stringlar va Formatlash | `░░░░░░░░░░` 0% | 0/10 |
 | 3 | ⬜ Shartlar va Sikllar | `░░░░░░░░░░` 0% | 0/15 |
 | 4 | ⬜ Ma'lumot Tuzilmalari | `░░░░░░░░░░` 0% | 0/18 |
@@ -63,4 +63,4 @@
 - `lms_yozma_topshiriqlari/` — yozma javoblar
 
 ---
-<sub>🤖 Aziz Academy · avtomatik yangilanadi · 2026-08-03 03:56</sub>
+<sub>🤖 Aziz Academy · avtomatik yangilanadi · 2026-08-04 03:21</sub>
