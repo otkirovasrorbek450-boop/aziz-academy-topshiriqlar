@@ -1,3 +1,5 @@
-a, b = map(int, input().split())
-print(f"Quot: {a // b}")
-print(f"Rem: {a % b}")
+a, b = input().split()
+a = int(a)
+b = int(b)
+print("Quot:", a // b)
+print("Rem:", a % b)
