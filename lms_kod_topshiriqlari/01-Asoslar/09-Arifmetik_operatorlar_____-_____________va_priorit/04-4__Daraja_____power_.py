@@ -1,2 +1,2 @@
-a, b = map(int, input().split())
-print(f"Pow: {a**b}")
+a, b = input().split()
+print("Pow:", int(a) ** int(b))
