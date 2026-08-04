@@ -1,3 +1,5 @@
 a, b, c = map(int, input().split())
-result = a + b * c
-print(f"Result: {result}")
+
+natija = a + b * c
+
+print(f"Result: {natija}")
