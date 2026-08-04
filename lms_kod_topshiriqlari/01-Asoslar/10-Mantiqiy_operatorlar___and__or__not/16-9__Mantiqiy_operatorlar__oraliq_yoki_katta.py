@@ -1,2 +1,3 @@
 n = int(input())
-print(n >= 10)
+
+print((10 <= n <= 20) or (n > 90))
