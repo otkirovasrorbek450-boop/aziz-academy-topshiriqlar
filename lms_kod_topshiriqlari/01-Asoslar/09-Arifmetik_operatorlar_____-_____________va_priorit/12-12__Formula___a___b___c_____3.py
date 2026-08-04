@@ -1,3 +1,5 @@
-a,b,c = map(int, input().split())
-avg = (a + b + c) // 3
-print(f"AvgInt: {avg}")
+a, b, c = map(int, input().split())
+
+natija = (a + b + c) // 3
+
+print(f"AvgInt: {natija}")
