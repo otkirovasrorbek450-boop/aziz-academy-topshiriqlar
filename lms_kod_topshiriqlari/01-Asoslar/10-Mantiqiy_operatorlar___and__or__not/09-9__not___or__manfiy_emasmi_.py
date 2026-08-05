@@ -1,3 +1,2 @@
 a = int(input())
-result = (a >= 0)
-print(result)
+print(not (a < 0))
