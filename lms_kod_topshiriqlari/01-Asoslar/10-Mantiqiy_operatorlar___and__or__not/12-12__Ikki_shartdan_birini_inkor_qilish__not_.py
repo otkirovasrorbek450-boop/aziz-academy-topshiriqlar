@@ -1,2 +1,2 @@
 a = int(input())
-print(not (10 <= a <= 20))
+print(not (a >=10 and a<= 20))
