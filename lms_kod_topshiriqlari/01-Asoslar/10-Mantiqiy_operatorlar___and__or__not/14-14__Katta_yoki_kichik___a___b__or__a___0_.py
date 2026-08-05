@@ -1,3 +1,4 @@
-a, b = map(int, input().split())
-result = (a > b) or (a < 0)
-print(result)
+a, b = input().split()
+a = int(a)
+b = int(b)
+print(a > b or a < 0)
