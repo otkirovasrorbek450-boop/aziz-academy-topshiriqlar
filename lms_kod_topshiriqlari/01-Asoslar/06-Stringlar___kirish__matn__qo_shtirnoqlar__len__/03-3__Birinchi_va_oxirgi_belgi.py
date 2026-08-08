@@ -1,3 +1,5 @@
-s = input()
-print(f"First: {s[0]}")
-print(f"Last: {s[-1]}")
+word = input()
+
+print("First:",word[0])
+
+print("Last:",word[-1])
