@@ -1,2 +1,3 @@
-word = input()
-print(word * 3)
+text =input()
+
+print(text * 3)
