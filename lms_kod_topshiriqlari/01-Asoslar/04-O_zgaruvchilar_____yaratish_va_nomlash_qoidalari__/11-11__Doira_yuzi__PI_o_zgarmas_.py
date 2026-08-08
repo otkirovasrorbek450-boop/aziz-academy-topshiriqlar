@@ -1,4 +1,3 @@
+PI = 3.14
 r = float(input())
-pi = 3.14
-s = pi * r**2
-print(s)
+print(PI * r * r)
