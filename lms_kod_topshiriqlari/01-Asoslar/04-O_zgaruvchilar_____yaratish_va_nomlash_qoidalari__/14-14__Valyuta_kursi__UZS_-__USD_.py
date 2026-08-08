@@ -1,2 +1,4 @@
-s, k = int(input()), float(input())
-print(f"USD: {s/k:.2f}")
+summa_uzs = int(input())
+kurs = float(input())
+usd = summa_uzs / kurs
+print(f"USD: {usd:.2f}")
