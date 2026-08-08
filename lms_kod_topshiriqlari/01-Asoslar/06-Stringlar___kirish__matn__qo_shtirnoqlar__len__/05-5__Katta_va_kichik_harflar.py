@@ -1,3 +1,3 @@
-s = input()
-print(s.upper())
-print(s.lower())
+text = input()
+print(text.upper())
+print(text.lower())
