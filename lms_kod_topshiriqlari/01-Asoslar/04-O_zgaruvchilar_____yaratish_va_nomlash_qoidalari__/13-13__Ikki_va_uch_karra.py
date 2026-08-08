@@ -1,2 +1,3 @@
-n = int(input())
-print(f"2x: {2*n}\n3x: {3*n}")
+son = int(input())
+print(f"2x: {son * 2}")
+print(f"3x: {son * 3}")
