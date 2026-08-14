@@ -1,6 +1,4 @@
+# a (butun son)
+# a > 0 bo'lsa True, aks holda False chiqaring.
 a = int(input())
-
-if a > 0:
-    print(True)
-else:
-    print(False)
+print(a > 0) 
